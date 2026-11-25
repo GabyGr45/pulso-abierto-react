@@ -59,7 +59,7 @@ npm run preview
 
 ## URL pública
 
-Pendiente de publicación en Vercel.
+https://pulso-abierto-react-eta.vercel.app/
 
 ## Mejora de mantenibilidad
 
@@ -74,5 +74,5 @@ Se verificó la ausencia de regresiones mediante pruebas automatizadas y generac
 - Pruebas ejecutadas correctamente.
 - Build generado correctamente.
 - Preview comprobado.
-- Despliegue realizado: pendiente.
-- Fecha de verificación: 21/11/2026.
+- Despliegue realizado correctamente.
+- Fecha de verificación: 24/11/2026.
